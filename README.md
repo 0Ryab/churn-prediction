@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Etapas
 - [x] Fase 1 — Setup e estrutura do projeto
-- [ ] Fase 2 — EDA
+- [x] Fase 2 — EDA
 - [ ] Fase 3 — Feature Engineering
 - [ ] Fase 4 — Modelagem
 - [ ] Fase 5 — MLOps
